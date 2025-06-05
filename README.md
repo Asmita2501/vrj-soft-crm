@@ -100,11 +100,3 @@ www.linkedin.com/in/asmita-khatavkar-b1a1bb242
 
 This project is for educational purposes only.
 
-### ✅ Tips:
-- Replace `"yourusername"` with your actual GitHub username in the clone link.
-- Add screenshots if possible (just drag & drop them into your repo).
-- You can also upload a `.sql` file of your database and link it here for users.
-
----
-
-Would you like me to **create this as a real `README.md` file** for download, or help you **write the JDBC configuration section** if needed?
